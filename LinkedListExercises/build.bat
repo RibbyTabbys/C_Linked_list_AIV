@@ -1,0 +1,1 @@
+clang.exe -o linked_list.exe linked_list.c
